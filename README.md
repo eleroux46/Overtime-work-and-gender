@@ -3,5 +3,5 @@
 
 This work was done in the context of the Applied Labour Economics class under the supervision of Roland Rathelot.
 
-The code of the data cleaning and the data analysis is given in this repository, in the "code" folder.
+The code of the data cleaning process and the data analysis are given in this repository, in the "code" folder.
 The article presenting our results is named "".
